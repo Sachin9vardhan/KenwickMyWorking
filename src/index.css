@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* Keep your custom styles below */
+body {
+  font-family: 'Inter', sans-serif;
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0ea5e9;
+  border-radius: 10px;
+}
+
+/* ... any other global styles ... */
